@@ -85,7 +85,7 @@ class exibition_common(QWidget):
         vertical_layout.addWidget(self.status_label)
 
         self.search_google_checkbox = self.sample_widget_template.checkbox(set_text='Search Google if no website',
-                                                                           set_checked=True)
+                                                                           set_checked=False)
         vertical_layout.addWidget(self.search_google_checkbox)
 
         self.filter_line_edit = self.sample_widget_template.line_edit()
@@ -109,14 +109,14 @@ class exibition_common(QWidget):
             data = selected_item.data(0, Qt.UserRole)
             company_name = data.get('company_name')
             company_website = data.get('company_website')
-            if not company_website:
-                self.right_stake_widget.setCurrentIndex(0)
-                self.maual_widget.update_ui(company_name=company_name,
-                                            website=company_website)
-                if self.search_google_checkbox.isChecked():
-                    self.search_company_in_browser(company_name)
-            else:
-                self.right_stake_widget.setCurrentIndex(1)
+
+            self.right_stake_widget.setCurrentIndex(0)
+            self.maual_widget.update_ui(company_name=company_name,
+                                        website=company_website)
+            if self.search_google_checkbox.isChecked():
+                self.search_company_in_browser(company_name)
+
+
 
     def search_company_in_browser(self, company_name):
         '''
