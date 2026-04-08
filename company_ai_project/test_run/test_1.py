@@ -61,4 +61,5 @@ for company in list_item:
     unique_name = company.get('unique_name')
     if unique_name not in unique_url_list:
         print(company)
-        value = add_all_link.process_company(company, replace=True)
+        #value = add_all_link.process_company(company, replace=True)
+        break
