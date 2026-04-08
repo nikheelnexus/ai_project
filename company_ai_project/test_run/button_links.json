@@ -1,0 +1,26 @@
+[
+  {
+    "type": "anchor-button",
+    "text": "",
+    "url": "javascript:void(0);",
+    "html": "<a class=\"btn btn-light d-flex align-items-center fontsize-20px active\" href=\"javascript:void(0);\" id=\"grid\" onclick=\"return changeView(1);\"><i class=\"fa fa-th\"></i></a>"
+  },
+  {
+    "type": "anchor-button",
+    "text": "",
+    "url": "javascript:void(0);",
+    "html": "<a class=\"btn btn-light d-flex align-items-center fontsize-20px\" href=\"javascript:void(0);\" id=\"list\" onclick=\"return changeView(2);\"><i class=\"fa fa-list\"></i></a>"
+  },
+  {
+    "type": "class-button",
+    "text": "",
+    "url": "javascript:void(0);",
+    "html": "<a class=\"btn btn-light d-flex align-items-center fontsize-20px active\" href=\"javascript:void(0);\" id=\"grid\" onclick=\"return changeView(1);\"><i class=\"fa fa-th\"></i></a>"
+  },
+  {
+    "type": "class-button",
+    "text": "",
+    "url": "javascript:void(0);",
+    "html": "<a class=\"btn btn-light d-flex align-items-center fontsize-20px\" href=\"javascript:void(0);\" id=\"list\" onclick=\"return changeView(2);\"><i class=\"fa fa-list\"></i></a>"
+  }
+]

@@ -1,0 +1,5 @@
+*.db
+token_tracker.db
+link_database.db
+agent/common_agent/token_tracker.db
+company_ai_project/saved_data/link_database.db

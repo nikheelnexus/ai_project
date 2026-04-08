@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1050</width>
+    <height>876</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QPushButton" name="pushButton">
+     <property name="minimumSize">
+      <size>
+       <width>0</width>
+       <height>58</height>
+      </size>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>13</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="text">
+      <string>DESLY GROUP CO.,LTD. &gt;&gt;&gt;&gt; Nexus Export</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QWidget" name="widget" native="true">
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QPushButton" name="pushButton_2">
+        <property name="text">
+         <string>Phase 1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_3">
+        <property name="text">
+         <string>Phase 2</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_4">
+        <property name="text">
+         <string>Phase 3</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_5">
+        <property name="text">
+         <string>Phase 4</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_6">
+        <property name="text">
+         <string>Phase 5</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QStackedWidget" name="stackedWidget">
+     <property name="currentIndex">
+      <number>0</number>
+     </property>
+     <widget class="QWidget" name="page">
+      <layout class="QVBoxLayout" name="verticalLayout_2">
+       <item>
+        <widget class="QWidget" name="widget_2" native="true">
+         <layout class="QHBoxLayout" name="horizontalLayout_2">
+          <item>
+           <widget class="QPushButton" name="pushButton_7">
+            <property name="text">
+             <string>Task 1</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="pushButton_8">
+            <property name="text">
+             <string>Task 2</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="pushButton_9">
+            <property name="text">
+             <string>Task 3</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="pushButton_10">
+            <property name="text">
+             <string>Task 4</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="pushButton_11">
+            <property name="text">
+             <string>Task 5</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QStackedWidget" name="stackedWidget_2">
+         <widget class="QWidget" name="page_3">
+          <layout class="QVBoxLayout" name="verticalLayout_7">
+           <item>
+            <widget class="QSplitter" name="splitter">
+             <property name="orientation">
+              <enum>Qt::Horizontal</enum>
+             </property>
+             <widget class="QWidget" name="widget_9" native="true">
+              <layout class="QVBoxLayout" name="verticalLayout_6">
+               <item>
+                <widget class="QWidget" name="widget_12" native="true">
+                 <layout class="QHBoxLayout" name="horizontalLayout_12">
+                  <item>
+                   <widget class="QPushButton" name="pushButton_17">
+                    <property name="text">
+                     <string>task</string>
+                    </property>
+                   </widget>
+                  </item>
+                  <item>
+                   <widget class="QPushButton" name="pushButton_18">
+                    <property name="text">
+                     <string>Data</string>
+                    </property>
+                   </widget>
+                  </item>
+                 </layout>
+                </widget>
+               </item>
+               <item>
+                <widget class="QStackedWidget" name="stackedWidget_5">
+                 <property name="currentIndex">
+                  <number>0</number>
+                 </property>
+                 <widget class="QWidget" name="page_13">
+                  <layout class="QVBoxLayout" name="verticalLayout_5">
+                   <item>
+                    <widget class="QScrollArea" name="scrollArea">
+                     <property name="widgetResizable">
+                      <bool>true</bool>
+                     </property>
+                     <widget class="QWidget" name="scrollAreaWidgetContents">
+                      <property name="geometry">
+                       <rect>
+                        <x>0</x>
+                        <y>0</y>
+                        <width>537</width>
+                        <height>579</height>
+                       </rect>
+                      </property>
+                      <layout class="QVBoxLayout" name="verticalLayout_4">
+                       <item>
+                        <widget class="QWidget" name="widget_11" native="true">
+                         <layout class="QVBoxLayout" name="verticalLayout_3">
+                          <item>
+                           <widget class="QWidget" name="widget_10" native="true">
+                            <layout class="QHBoxLayout" name="horizontalLayout_9">
+                             <item>
+                              <widget class="QLabel" name="label">
+                               <property name="text">
+                                <string>Competitive Gap Analysis</string>
+                               </property>
+                               <property name="alignment">
+                                <set>Qt::AlignCenter</set>
+                               </property>
+                              </widget>
+                             </item>
+                             <item>
+                              <widget class="QLabel" name="label_4">
+                               <property name="text">
+                                <string>owner</string>
+                               </property>
+                               <property name="alignment">
+                                <set>Qt::AlignCenter</set>
+                               </property>
+                              </widget>
+                             </item>
+                            </layout>
+                           </widget>
+                          </item>
+                          <item>
+                           <widget class="QWidget" name="widget_8" native="true">
+                            <layout class="QHBoxLayout" name="horizontalLayout_8">
+                             <item>
+                              <widget class="QLabel" name="label_8">
+                               <property name="text">
+                                <string>depends_on</string>
+                               </property>
+                              </widget>
+                             </item>
+                             <item>
+                              <widget class="QWidget" name="widget_7" native="true">
+                               <layout class="QHBoxLayout" name="horizontalLayout_7">
+                                <item>
+                                 <widget class="QPushButton" name="pushButton_12">
+                                  <property name="text">
+                                   <string>depend1</string>
+                                  </property>
+                                 </widget>
+                                </item>
+                                <item>
+                                 <widget class="QPushButton" name="pushButton_13">
+                                  <property name="text">
+                                   <string>depend2</string>
+                                  </property>
+                                 </widget>
+                                </item>
+                               </layout>
+                              </widget>
+                             </item>
+                            </layout>
+                           </widget>
+                          </item>
+                          <item>
+                           <widget class="QWidget" name="widget_3" native="true">
+                            <layout class="QHBoxLayout" name="horizontalLayout_3">
+                             <item>
+                              <widget class="QLabel" name="label_2">
+                               <property name="text">
+                                <string>Description</string>
+                               </property>
+                              </widget>
+                             </item>
+                             <item>
+                              <widget class="QPlainTextEdit" name="plainTextEdit"/>
+                             </item>
+                            </layout>
+                           </widget>
+                          </item>
+                          <item>
+                           <widget class="QWidget" name="widget_4" native="true">
+                            <layout class="QHBoxLayout" name="horizontalLayout_4">
+                             <item>
+                              <widget class="QLabel" name="label_3">
+                               <property name="text">
+                                <string>Due</string>
+                               </property>
+                               <property name="alignment">
+                                <set>Qt::AlignCenter</set>
+                               </property>
+                              </widget>
+                             </item>
+                             <item>
+                              <widget class="QLabel" name="label_5">
+                               <property name="text">
+                                <string>3</string>
+                               </property>
+                               <property name="alignment">
+                                <set>Qt::AlignCenter</set>
+                               </property>
+                              </widget>
+                             </item>
+                            </layout>
+                           </widget>
+                          </item>
+                          <item>
+                           <widget class="QWidget" name="widget_5" native="true">
+                            <layout class="QHBoxLayout" name="horizontalLayout_5">
+                             <item>
+                              <widget class="QLabel" name="label_6">
+                               <property name="text">
+                                <string>deliverable</string>
+                               </property>
+                               <property name="alignment">
+                                <set>Qt::AlignCenter</set>
+                               </property>
+                              </widget>
+                             </item>
+                             <item>
+                              <widget class="QPlainTextEdit" name="plainTextEdit_2"/>
+                             </item>
+                            </layout>
+                           </widget>
+                          </item>
+                          <item>
+                           <widget class="QWidget" name="widget_6" native="true">
+                            <layout class="QHBoxLayout" name="horizontalLayout_6">
+                             <item>
+                              <widget class="QLabel" name="label_7">
+                               <property name="text">
+                                <string>success_criteria</string>
+                               </property>
+                               <property name="alignment">
+                                <set>Qt::AlignCenter</set>
+                               </property>
+                              </widget>
+                             </item>
+                             <item>
+                              <widget class="QPlainTextEdit" name="plainTextEdit_3"/>
+                             </item>
+                            </layout>
+                           </widget>
+                          </item>
+                         </layout>
+                        </widget>
+                       </item>
+                       <item>
+                        <widget class="QStackedWidget" name="stackedWidget_4">
+                         <property name="currentIndex">
+                          <number>0</number>
+                         </property>
+                         <widget class="QWidget" name="page_9">
+                          <layout class="QHBoxLayout" name="horizontalLayout_11">
+                           <item>
+                            <widget class="QPushButton" name="pushButton_14">
+                             <property name="text">
+                              <string>Start</string>
+                             </property>
+                            </widget>
+                           </item>
+                          </layout>
+                         </widget>
+                         <widget class="QWidget" name="page_10">
+                          <layout class="QHBoxLayout" name="horizontalLayout_10">
+                           <item>
+                            <widget class="QPushButton" name="pushButton_15">
+                             <property name="text">
+                              <string>Start date</string>
+                             </property>
+                            </widget>
+                           </item>
+                           <item>
+                            <widget class="QPushButton" name="pushButton_16">
+                             <property name="text">
+                              <string>end date</string>
+                             </property>
+                            </widget>
+                           </item>
+                          </layout>
+                         </widget>
+                        </widget>
+                       </item>
+                      </layout>
+                     </widget>
+                    </widget>
+                   </item>
+                  </layout>
+                 </widget>
+                 <widget class="QWidget" name="page_14">
+                  <layout class="QVBoxLayout" name="verticalLayout_8">
+                   <item>
+                    <widget class="QPlainTextEdit" name="plainTextEdit_4"/>
+                   </item>
+                  </layout>
+                 </widget>
+                </widget>
+               </item>
+              </layout>
+             </widget>
+             <widget class="QStackedWidget" name="stackedWidget_3">
+              <widget class="QWidget" name="page_5"/>
+              <widget class="QWidget" name="page_6"/>
+             </widget>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+         <widget class="QWidget" name="page_4"/>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+     <widget class="QWidget" name="page_2"/>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

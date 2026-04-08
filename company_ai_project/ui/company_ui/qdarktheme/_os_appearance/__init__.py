@@ -1,0 +1,1 @@
+from company_ai_project_old.ui.company_ui.qdarktheme._os_appearance._accent import accent

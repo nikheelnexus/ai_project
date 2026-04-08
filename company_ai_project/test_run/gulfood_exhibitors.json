@@ -1,0 +1,47 @@
+[
+  {
+    "company_name": "Country",
+    "booth_number": null,
+    "country": "",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "description": null,
+    "categories": [],
+    "hall": null,
+    "profile_url": null,
+    "raw_data": {
+      "html_snippet": "Country Afghanistan Albania Algeria Angola Argentina Armenia Australia Austria Azerbaijan Bahrain Bangladesh Belarus Belgium Botswana Brazil Brunei Bulgaria Cambodia Canada Chile China Colombia Croatia Cyprus Czech Republic Denmark Ecuador Egypt Estonia Ethiopia Faroe Islands Finland France Georgia Germany Ghana Greece Guatemala Hong Kong Special Administrative Region Hungary India Indonesia Iran Iraq Italy Japan Jordan Kazakhstan Kenya Kosovo Kuwait Kyrgyzstan Latvia Lebanon Libya Lithuania Lux"
+    }
+  },
+  {
+    "company_name": "Select Category",
+    "booth_number": null,
+    "country": null,
+    "website": null,
+    "email": null,
+    "phone": null,
+    "description": null,
+    "categories": [],
+    "hall": null,
+    "profile_url": null,
+    "raw_data": {
+      "html_snippet": "Select Category Bakery, Cakes & Desserts Baked Goods Baking Supplies Cakes / Dessert Crisp Bread Gluten-free Baked Goods Specialty Breads Beverages Bottled Water Carbonated Soft Drinks Coffee Cordials & Syrups Energy Drinks Flavoured Water Iced Tea Instant Beverages Instant hot beverages Juices & Nectars Non-alcoholic Beverages Smoothies Tea Chilled & Fresh Food Eggs & Egg Products Fresh Fruits & Vegetables Fresh Ready Meals Fresh Side Dishes & Ingredients Condiments & Sauces Dairy Alternative M"
+    }
+  },
+  {
+    "company_name": "Search by Venue/Sectors",
+    "booth_number": null,
+    "country": null,
+    "website": null,
+    "email": null,
+    "phone": null,
+    "description": null,
+    "categories": [],
+    "hall": null,
+    "profile_url": null,
+    "raw_data": {
+      "html_snippet": "Search by Venue/Sectors Dubai Exhibition Centre GULFOOD LOGISTICS GULFOOD FRESH GROCERY TRADE Rice, Pulses & Grains World Food Power Brands-DEC Dubai World Trade Centre GULFOOD STARTUPS BEVERAGES DAIRY FATS & OILS Meat & Poultry Power Brands-DWTC Seafood"
+    }
+  }
+]

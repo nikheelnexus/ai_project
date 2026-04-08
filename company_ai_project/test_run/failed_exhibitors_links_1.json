@@ -1,0 +1,482 @@
+[
+  {
+    "company_website": "http://www.unclenonu.com/",
+    "company_name": "Aayam Projects Pvt Ltd",
+    "exhibitor_name": "gulffood",
+    "unique_name": "aayam-projects-pvt-ltd-unclenonu",
+    "failed_timestamp": "2026-04-06T16:08:44.146687",
+    "index": 190
+  },
+  {
+    "company_website": "https://abbaspour.com/",
+    "company_name": "Abbaspour Industrial Group Ardin",
+    "exhibitor_name": "gulffood",
+    "unique_name": "abbaspour-industrial-group-ardin-abbaspour",
+    "failed_timestamp": "2026-04-06T16:09:01.872787",
+    "index": 196
+  },
+  {
+    "company_website": "http://www.acroyali.com",
+    "company_name": "Acroyali Holdings Qingdao Co., Ltd",
+    "exhibitor_name": "gulffood",
+    "unique_name": "acroyali-holdings-qingdao-co-ltd-acroyali",
+    "failed_timestamp": "2026-04-06T16:09:51.705912",
+    "index": 241
+  },
+  {
+    "company_website": "https://aipalette.com",
+    "company_name": "Ai Palette",
+    "exhibitor_name": "gulffood",
+    "unique_name": "ai-palette-aipalette",
+    "failed_timestamp": "2026-04-06T16:11:41.783328",
+    "index": 353
+  },
+  {
+    "company_website": "http://www.alaminsalt.com/",
+    "company_name": "Al Amin Salt Works (Pvt.) Ltd",
+    "exhibitor_name": "gulffood",
+    "unique_name": "al-amin-salt-works-pvt-ltd-alaminsalt",
+    "failed_timestamp": "2026-04-06T16:12:23.818540",
+    "index": 385
+  },
+  {
+    "company_website": "http://www.americanpopcorn.com/",
+    "company_name": "American Pop Corn Co. / Groceries USA",
+    "exhibitor_name": "gulffood",
+    "unique_name": "american-pop-corn-co-groceries-usa-americanpopcorn",
+    "failed_timestamp": "2026-04-06T16:14:41.327179",
+    "index": 619
+  },
+  {
+    "company_website": "http://www.anavieja.com/",
+    "company_name": "Aperitivos de Anavieja",
+    "exhibitor_name": "gulffood",
+    "unique_name": "aperitivos-de-anavieja-anavieja",
+    "failed_timestamp": "2026-04-06T16:15:15.074133",
+    "index": 684
+  },
+  {
+    "company_website": "http://www.atyabalkaram.com/",
+    "company_name": "Atyab alkaram international Ltd",
+    "exhibitor_name": "gulffood",
+    "unique_name": "atyab-alkaram-international-ltd-atyabalkaram",
+    "failed_timestamp": "2026-04-06T16:16:28.577525",
+    "index": 800
+  },
+  {
+    "company_website": "http://www.barkatrice.com/",
+    "company_name": "Barkat Rice Mills (Pvt) Limited",
+    "exhibitor_name": "gulffood",
+    "unique_name": "barkat-rice-mills-pvt-limited-barkatrice",
+    "failed_timestamp": "2026-04-06T16:19:27.165324",
+    "index": 966
+  },
+  {
+    "company_website": "http://www.civitagroup.hu/",
+    "company_name": "CIVITA Group Nyrt",
+    "exhibitor_name": "gulffood",
+    "unique_name": "civita-group-nyrt-civitagroup",
+    "failed_timestamp": "2026-04-06T16:25:01.977018",
+    "index": 1260
+  },
+  {
+    "company_website": "http://www.canditfrucht.com/",
+    "company_name": "Canditfrucht S.p.a",
+    "exhibitor_name": "gulffood",
+    "unique_name": "canditfrucht-spa-canditfrucht",
+    "failed_timestamp": "2026-04-06T16:27:31.056954",
+    "index": 1347
+  },
+  {
+    "company_website": "http://www.panpanfood.com/",
+    "company_name": "Fullset",
+    "exhibitor_name": "anuga",
+    "unique_name": "fullset-panpanfood",
+    "failed_timestamp": "2026-04-06T16:48:23.774279",
+    "index": 2567
+  },
+  {
+    "company_website": "http://www.greatpartner.cn/?utm_source=FOBShanghai",
+    "company_name": "Guangzhou Great Partner Foods Co., Ltd",
+    "exhibitor_name": "anuga",
+    "unique_name": "guangzhou-great-partner-foods-co-ltd-greatpartner",
+    "failed_timestamp": "2026-04-06T16:52:19.852317",
+    "index": 2797
+  },
+  {
+    "company_website": "http://habibico.com/",
+    "company_name": "Habibi Co",
+    "exhibitor_name": "gulffood",
+    "unique_name": "habibi-co-habibico",
+    "failed_timestamp": "2026-04-06T16:53:20.047989",
+    "index": 2832
+  },
+  {
+    "company_website": "http://www.jaksonbioagro.com/",
+    "company_name": "Jakson Bioagro",
+    "exhibitor_name": "gulffood",
+    "unique_name": "jakson-bioagro-jaksonbioagro",
+    "failed_timestamp": "2026-04-06T16:58:00.265176",
+    "index": 3046
+  },
+  {
+    "company_website": "http://www.ju-neng.cn/",
+    "company_name": "Jiangsu Juneng",
+    "exhibitor_name": "anuga",
+    "unique_name": "jiangsu-juneng-ju-neng",
+    "failed_timestamp": "2026-04-06T16:58:24.964540",
+    "index": 3067
+  },
+  {
+    "company_website": "http://khanya.co.za",
+    "company_name": "Khanya",
+    "exhibitor_name": "gulffood",
+    "unique_name": "khanya-co",
+    "failed_timestamp": "2026-04-06T17:01:02.749145",
+    "index": 3167
+  },
+  {
+    "company_website": "http://www.khyatigroup.com/",
+    "company_name": "Khyati Group",
+    "exhibitor_name": "gulffood",
+    "unique_name": "khyati-group-khyatigroup",
+    "failed_timestamp": "2026-04-06T17:01:28.089635",
+    "index": 3172
+  },
+  {
+    "company_website": "https://www.lipmen.co.kr/",
+    "company_name": "Lipmen Co., Ltd.",
+    "exhibitor_name": "anuga",
+    "unique_name": "lipmen-co-ltd-co",
+    "failed_timestamp": "2026-04-06T17:06:38.474563",
+    "index": 3361
+  },
+  {
+    "company_website": "https://www.ldc.com/",
+    "company_name": "Louis Dreyfus Company Suisse SA",
+    "exhibitor_name": "gulffood",
+    "unique_name": "louis-dreyfus-company-suisse-sa-ldc",
+    "failed_timestamp": "2026-04-06T17:07:12.841338",
+    "index": 3374
+  },
+  {
+    "company_website": "http://lyoncity.com.ar/",
+    "company_name": "Lyon City",
+    "exhibitor_name": "anuga",
+    "unique_name": "lyon-city-com",
+    "failed_timestamp": "2026-04-06T17:07:35.952556",
+    "index": 3384
+  },
+  {
+    "company_website": "https://www.maizfood.com.br/",
+    "company_name": "Maiz Food",
+    "exhibitor_name": "anuga",
+    "unique_name": "maiz-food-com",
+    "failed_timestamp": "2026-04-06T17:09:40.083316",
+    "index": 3449
+  },
+  {
+    "company_website": "http://www.meupottop.com.br/",
+    "company_name": "Meu Pot Top",
+    "exhibitor_name": "anuga",
+    "unique_name": "meu-pot-top-com",
+    "failed_timestamp": "2026-04-06T17:12:29.468110",
+    "index": 3574
+  },
+  {
+    "company_website": "http://www.muhtaroglu.com/",
+    "company_name": "Muhtaro\u011flu",
+    "exhibitor_name": "gulffood",
+    "unique_name": "muhtaro\u011flu-muhtaroglu",
+    "failed_timestamp": "2026-04-06T17:14:27.952802",
+    "index": 3656
+  },
+  {
+    "company_website": "http://www.mymochi.com/",
+    "company_name": "My Mochi",
+    "exhibitor_name": "gulffood",
+    "unique_name": "my-mochi-mymochi",
+    "failed_timestamp": "2026-04-06T17:14:57.006316",
+    "index": 3668
+  },
+  {
+    "company_website": "http://novarumphama.com.ar/",
+    "company_name": "Novarum Pharma",
+    "exhibitor_name": "anuga",
+    "unique_name": "novarum-pharma-com",
+    "failed_timestamp": "2026-04-06T17:17:38.936058",
+    "index": 3795
+  },
+  {
+    "company_website": "https://www.oshee.pl/",
+    "company_name": "Oshee Polska SA",
+    "exhibitor_name": "gulffood",
+    "unique_name": "oshee-polska-sa-oshee",
+    "failed_timestamp": "2026-04-06T17:20:52.429850",
+    "index": 3915
+  },
+  {
+    "company_website": "http://www.cherkizovo.com/",
+    "company_name": "PJSC Cherkizovo Group",
+    "exhibitor_name": "gulffood",
+    "unique_name": "pjsc-cherkizovo-group-cherkizovo",
+    "failed_timestamp": "2026-04-06T17:21:34.613111",
+    "index": 3947
+  },
+  {
+    "company_website": "https://www.pakmaya.com.tr/",
+    "company_name": "Pakmaya - Pak Ihracat A.S",
+    "exhibitor_name": "gulffood",
+    "unique_name": "pakmaya-pak-ihracat-as-com",
+    "failed_timestamp": "2026-04-06T17:22:43.197934",
+    "index": 3983
+  },
+  {
+    "company_website": "https://www.mileruruguay.com/",
+    "company_name": "Portezuelo",
+    "exhibitor_name": "anuga",
+    "unique_name": "portezuelo-mileruruguay",
+    "failed_timestamp": "2026-04-06T17:24:45.838165",
+    "index": 4074
+  },
+  {
+    "company_website": "https://possmei.com/",
+    "company_name": "Possmei International Co Ltd",
+    "exhibitor_name": "anuga",
+    "unique_name": "possmei-international-co-ltd-possmei",
+    "failed_timestamp": "2026-04-06T17:24:48.337533",
+    "index": 4077
+  },
+  {
+    "company_website": "https://obolon.ua/",
+    "company_name": "PrJSC OBOLON",
+    "exhibitor_name": "gulffood",
+    "unique_name": "prjsc-obolon-obolon",
+    "failed_timestamp": "2026-04-06T17:24:51.968419",
+    "index": 4084
+  },
+  {
+    "company_website": "https://www.trmetal.com.br/",
+    "company_name": "Prospect Proprio",
+    "exhibitor_name": "anuga",
+    "unique_name": "prospect-proprio-com",
+    "failed_timestamp": "2026-04-06T17:25:57.511505",
+    "index": 4131
+  },
+  {
+    "company_website": "http://www.rsfoodstech.com/",
+    "company_name": "R.S. FOODS TECH (THAILAND) CO., LTD",
+    "exhibitor_name": "gulffood",
+    "unique_name": "rs-foods-tech-thailand-co-ltd-rsfoodstech",
+    "failed_timestamp": "2026-04-06T17:27:17.394183",
+    "index": 4174
+  },
+  {
+    "company_website": "http://www.rennasrl.com/",
+    "company_name": "Renna S.r.l",
+    "exhibitor_name": "gulffood",
+    "unique_name": "renna-srl-rennasrl",
+    "failed_timestamp": "2026-04-06T17:28:31.201543",
+    "index": 4231
+  },
+  {
+    "company_website": "http://rizglobalfoods.com/",
+    "company_name": "Riz Global Foods",
+    "exhibitor_name": "gulffood",
+    "unique_name": "riz-global-foods-rizglobalfoods",
+    "failed_timestamp": "2026-04-06T17:29:22.358795",
+    "index": 4255
+  },
+  {
+    "company_website": "https://sp.senai.br/alimentos",
+    "company_name": "SENAI SP",
+    "exhibitor_name": "anuga",
+    "unique_name": "senai-sp-senai",
+    "failed_timestamp": "2026-04-06T17:30:49.392482",
+    "index": 4316
+  },
+  {
+    "company_website": "http://www.sakrgroup.com/",
+    "company_name": "Sakr Group",
+    "exhibitor_name": "gulffood",
+    "unique_name": "sakr-group-sakrgroup",
+    "failed_timestamp": "2026-04-06T17:32:07.347321",
+    "index": 4369
+  },
+  {
+    "company_website": "https://www.sertha.com.br/",
+    "company_name": "Sertha EcoCopo",
+    "exhibitor_name": "anuga",
+    "unique_name": "sertha-ecocopo-com",
+    "failed_timestamp": "2026-04-06T17:33:53.620547",
+    "index": 4454
+  },
+  {
+    "company_website": "https://www.slqyny.com/",
+    "company_name": "Shaanxi Zihang International Trade Co., Ltd.",
+    "exhibitor_name": "anuga",
+    "unique_name": "shaanxi-zihang-international-trade-co-ltd-slqyny",
+    "failed_timestamp": "2026-04-06T17:34:03.246670",
+    "index": 4470
+  },
+  {
+    "company_website": "http://www.pedole.com/",
+    "company_name": "Shanghai Yamo Food Co., Ltd",
+    "exhibitor_name": "anuga",
+    "unique_name": "shanghai-yamo-food-co-ltd-pedole",
+    "failed_timestamp": "2026-04-06T17:34:26.509511",
+    "index": 4486
+  },
+  {
+    "company_website": "http://www.tncashew.com/",
+    "company_name": "Tamilnadu Cashew Processors And Exporters Association",
+    "exhibitor_name": "gulffood",
+    "unique_name": "tamilnadu-cashew-processors-and-exporters-association-tncashew",
+    "failed_timestamp": "2026-04-06T17:39:13.206635",
+    "index": 4717
+  },
+  {
+    "company_website": "http://www.thaiflour.co.th/",
+    "company_name": "Thai Flour Industry Co., Ltd",
+    "exhibitor_name": "gulffood",
+    "unique_name": "thai-flour-industry-co-ltd-co",
+    "failed_timestamp": "2026-04-06T17:40:13.261976",
+    "index": 4764
+  },
+  {
+    "company_website": "http://apeda.gov.in",
+    "company_name": "The Agricultural and Processed Food Products Export Development Authority",
+    "exhibitor_name": "gulffood",
+    "unique_name": "the-agricultural-and-processed-food-products-export-development-authority-gov",
+    "failed_timestamp": "2026-04-06T17:40:34.383283",
+    "index": 4776
+  },
+  {
+    "company_website": "http://www.vakmak.com/",
+    "company_name": "Vak-Mak",
+    "exhibitor_name": "gulffood",
+    "unique_name": "vak-mak-vakmak",
+    "failed_timestamp": "2026-04-06T17:45:35.236480",
+    "index": 4983
+  },
+  {
+    "company_website": "https://www.vanrees.com",
+    "company_name": "Van Rees",
+    "exhibitor_name": "gulffood",
+    "unique_name": "van-rees-vanrees",
+    "failed_timestamp": "2026-04-06T17:45:59.905249",
+    "index": 4999
+  },
+  {
+    "company_website": "https://www.vilaconic.com/",
+    "company_name": "Vilaconic",
+    "exhibitor_name": "gulffood",
+    "unique_name": "vilaconic-vilaconic",
+    "failed_timestamp": "2026-04-06T17:46:57.980798",
+    "index": 5040
+  },
+  {
+    "company_website": "http://vilaconic.com/",
+    "company_name": "Vilaconic Joint Stock Company",
+    "exhibitor_name": "gulffood",
+    "unique_name": "vilaconic-joint-stock-company-vilaconic",
+    "failed_timestamp": "2026-04-06T17:46:58.497562",
+    "index": 5041
+  },
+  {
+    "company_website": "http://www.walkerandsons.com/",
+    "company_name": "Walker & Sons, Inc",
+    "exhibitor_name": "gulffood",
+    "unique_name": "walker-sons-inc-walkerandsons",
+    "failed_timestamp": "2026-04-06T17:47:31.202386",
+    "index": 5075
+  },
+  {
+    "company_website": "https://www.wilburpacking.com/",
+    "company_name": "Wilbur Packing Company",
+    "exhibitor_name": "gulffood",
+    "unique_name": "wilbur-packing-company-wilburpacking",
+    "failed_timestamp": "2026-04-06T17:47:50.323617",
+    "index": 5098
+  },
+  {
+    "company_website": "https://www.wowmomo.com/",
+    "company_name": "Wow Momo Sales Pvt. Ltd",
+    "exhibitor_name": "gulffood",
+    "unique_name": "wow-momo-sales-pvt-ltd-wowmomo",
+    "failed_timestamp": "2026-04-06T17:48:19.719092",
+    "index": 5114
+  },
+  {
+    "company_website": "https://www.yhherb.com/",
+    "company_name": "Xi'An Yanhao Bio-Tech Co., Ltd",
+    "exhibitor_name": "anuga",
+    "unique_name": "xian-yanhao-bio-tech-co-ltd-yhherb",
+    "failed_timestamp": "2026-04-06T17:48:28.126913",
+    "index": 5119
+  },
+  {
+    "company_website": "http://yousify.com",
+    "company_name": "Yousify General Trading Co",
+    "exhibitor_name": "gulffood",
+    "unique_name": "yousify-general-trading-co-yousify",
+    "failed_timestamp": "2026-04-06T17:49:33.323753",
+    "index": 5166
+  },
+  {
+    "company_website": "https://www.zaanse.com/",
+    "company_name": "Zaanse",
+    "exhibitor_name": "gulffood",
+    "unique_name": "zaanse-zaanse",
+    "failed_timestamp": "2026-04-06T17:49:44.449258",
+    "index": 5175
+  },
+  {
+    "company_website": "http://www.zagarajasmine.com/",
+    "company_name": "Zagara Jasmine S.R.L",
+    "exhibitor_name": "gulffood",
+    "unique_name": "zagara-jasmine-srl-zagarajasmine",
+    "failed_timestamp": "2026-04-06T17:49:55.642097",
+    "index": 5177
+  },
+  {
+    "company_website": "http://www.zanae.com/",
+    "company_name": "Zanae S.A",
+    "exhibitor_name": "gulffood",
+    "unique_name": "zanae-sa-zanae",
+    "failed_timestamp": "2026-04-06T17:50:01.523864",
+    "index": 5183
+  },
+  {
+    "company_website": "http://www.zanchetta.com.br/",
+    "company_name": "Zanchetta Industria De Alimentos Ltda",
+    "exhibitor_name": "gulffood",
+    "unique_name": "zanchetta-industria-de-alimentos-ltda-com",
+    "failed_timestamp": "2026-04-06T17:50:08.046609",
+    "index": 5186
+  },
+  {
+    "company_website": "http://www.zhenmeigroup.com/",
+    "company_name": "Zhuhai Zhenmei Foodstuff Co., Ltd",
+    "exhibitor_name": "gulffood",
+    "unique_name": "zhuhai-zhenmei-foodstuff-co-ltd-zhenmeigroup",
+    "failed_timestamp": "2026-04-06T17:50:33.029932",
+    "index": 5201
+  },
+  {
+    "company_website": "http://zolotoepravilo.ru/",
+    "company_name": "Zolotoe Pravilo",
+    "exhibitor_name": "gulffood",
+    "unique_name": "zolotoe-pravilo-zolotoepravilo",
+    "failed_timestamp": "2026-04-06T17:50:34.591536",
+    "index": 5207
+  },
+  {
+    "company_website": "http://www.zowadetbaladna.com/",
+    "company_name": "Zowadet Baladna Factory",
+    "exhibitor_name": "gulffood",
+    "unique_name": "zowadet-baladna-factory-zowadetbaladna",
+    "failed_timestamp": "2026-04-06T17:50:35.063108",
+    "index": 5209
+  }
+]
