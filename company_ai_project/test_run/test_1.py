@@ -36,6 +36,7 @@ summery_link_list = list(set(summery_db.get_unique_names()))
 
 print(f"Total Link: {len(all_link_list)}")
 print(f"Total Filter Link: {len(filter_link_list)}")
+list_item = []
 sorted_list = sorted(get_link_unique_name)
 for each in sorted_list:
     filter = filter_link_db.get_filter_links_by_unique_name(unique_name=each)
@@ -43,11 +44,21 @@ for each in sorted_list:
         get_links = link_db.get_links_by_unique_name(unique_name=each)
         company = company_name_link_db.get_company(unique_name=each)
         if get_links:
-            print(company)
-            website = company.get('website')
-            value = add_all_link.process_company(company, replace=True)
-            print('this is value:', value)
-            if value:
-                break
+            if company:
+                website = company.get('website')
+                unique_name = company.get('unique_name')
+                #value = add_all_link.process_company(company, replace=True)
+                #print('this is value:', value)
+                list_item.append(company)
 
+                #if value:
+                #    break
 
+print(len(list_item))
+unique_url_list = ['pasta-armando-pastarmando.it']
+for company in list_item:
+    website = company.get('website')
+    unique_name = company.get('unique_name')
+    if unique_name not in unique_url_list:
+        print(company)
+        value = add_all_link.process_company(company, replace=True)
