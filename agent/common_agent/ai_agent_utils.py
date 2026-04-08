@@ -1,19 +1,24 @@
-from agent.common_agent import tokanize, api_key
-import openai
+from agent.common_agent import tokanize
+from dotenv import load_dotenv
+import openai, os
 from openai import OpenAI
 import base64
 # In ai_agent_utils.py
 import threading
 import sqlite3
 
-
+load_dotenv()
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
+ORG_ID = os.getenv("ORG_ID")
+PROJECT_ID = os.getenv("PROJECT_ID")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 tokanizeclass = tokanize.TokenTracker()
 
 def initialize_client():
     config ={}
-    config["OPENAI_API_KEY"] = api_key.OPENAI_API_KEY
-    config["ORG_ID"] = api_key.ORG_ID
-    config["PROJECT_ID"] = api_key.PROJECT_ID
+    config["OPENAI_API_KEY"] = DEEPSEEK_API_KEY
+    config["ORG_ID"] = ORG_ID
+    config["PROJECT_ID"] = PROJECT_ID
 
     #config = dotenv_values(".env")
     client = openai.OpenAI(
@@ -43,7 +48,7 @@ def deepSeek(text, content):
     import requests
     if tokanizeclass.stop_server() == False:
         return "Server is stopped"
-    API_KEY = api_key.DEEPSEEK_API_KEY
+    API_KEY = DEEPSEEK_API_KEY
 
     # Base URL
     API_URL = "https://api.deepseek.com/v1/chat/completions"
@@ -86,7 +91,7 @@ def deepSeek(text, content):
 
 
 def open_ai_text(dext, content, model="gpt-4o-mini", max_tokens=300):
-    client = OpenAI(api_key=api_key.OPENAI_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY)
     response = client.chat.completions.create(
         model=model,
         messages=[
@@ -105,7 +110,7 @@ def open_ai_image(image_path, prompt):
     with open(image_path, "rb") as image_file:
         base64_image = base64.b64encode(image_file.read()).decode('utf-8')
 
-    client = OpenAI(api_key=api_key.OPENAI_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY)
     response = client.chat.completions.create(
         model="gpt-4o",
         messages=[
