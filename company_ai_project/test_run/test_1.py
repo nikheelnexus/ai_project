@@ -56,10 +56,17 @@ for each in sorted_list:
 
 print(len(list_item))
 unique_url_list = ['pasta-armando-pastarmando.it']
+a = 0
 for company in list_item:
     website = company.get('website')
     unique_name = company.get('unique_name')
     if unique_name not in unique_url_list:
-        print(company)
+        #print(company)
+        company_name = company.get('company_name')
+        print(company_name)
         #value = add_all_link.process_company(company, replace=True)
-        break
+        if a == 5:
+            break
+        a+=1
+
+
